@@ -1,0 +1,9 @@
+classpath:C:\Users\user\.m2\repository\jakarta\servlet\jakarta.servlet-api\5.0.0\jakarta.servlet-api-5.0.0.jar	307850:1599478936000
+classpath:C:\Users\user\.m2\repository\org\eclipse\jetty\jetty-server\11.0.20\jetty-server-11.0.20.jar	796836:1706562314000
+classpath:C:\Users\user\.m2\repository\org\eclipse\jetty\jetty-http\11.0.20\jetty-http-11.0.20.jar	272937:1706562290000
+classpath:C:\Users\user\.m2\repository\org\eclipse\jetty\jetty-util\11.0.20\jetty-util-11.0.20.jar	571475:1706562271000
+classpath:C:\Users\user\.m2\repository\org\eclipse\jetty\jetty-io\11.0.20\jetty-io-11.0.20.jar	216437:1706562283000
+classpath:C:\Users\user\.m2\repository\org\eclipse\jetty\toolchain\jetty-jakarta-servlet-api\5.0.2\jetty-jakarta-servlet-api-5.0.2.jar	605086:1611672684000
+classpath:C:\Users\user\.m2\repository\org\slf4j\slf4j-api\2.0.9\slf4j-api-2.0.9.jar	64579:1693757672000
+classpath:C:\Users\user\.m2\repository\org\eclipse\jetty\jetty-servlet\11.0.20\jetty-servlet-11.0.20.jar	165628:1706562341000
+classpath:C:\Users\user\.m2\repository\org\eclipse\jetty\jetty-security\11.0.20\jetty-security-11.0.20.jar	121718:1706562319000
